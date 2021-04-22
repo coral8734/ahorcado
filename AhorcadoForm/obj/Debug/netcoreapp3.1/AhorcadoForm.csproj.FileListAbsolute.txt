@@ -1,0 +1,42 @@
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.exe
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.deps.json
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.runtimeconfig.json
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.runtimeconfig.dev.json
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.dll
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.pdb
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csprojAssemblyReference.cache
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form1.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Properties.Resources.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csproj.GenerateResource.cache
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.AssemblyInfoInputs.cache
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.AssemblyInfo.cs
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csproj.CoreCompileInputs.cache
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.dll
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.pdb
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.genruntimeconfig.cache
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form3.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form4.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form5.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form6.resources
+C:\Users\veronica\source\repos\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Programación.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.exe
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.deps.json
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.runtimeconfig.json
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.runtimeconfig.dev.json
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.dll
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\bin\Debug\netcoreapp3.1\AhorcadoForm.pdb
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csprojAssemblyReference.cache
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form4.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form6.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form1.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form3.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Programación.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Properties.Resources.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.Form5.resources
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csproj.GenerateResource.cache
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.AssemblyInfoInputs.cache
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.AssemblyInfo.cs
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.csproj.CoreCompileInputs.cache
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.dll
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.pdb
+C:\Users\coral\OneDrive\Escritorio\DAM1\TERCER TRIMESTRE PROGRAMACION\AhorcadoForm\AhorcadoForm\obj\Debug\netcoreapp3.1\AhorcadoForm.genruntimeconfig.cache
